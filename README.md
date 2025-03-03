@@ -21,7 +21,7 @@ By default the prefetch will occur when the user mouses over a link with the `x-
 
 ## Installation
 
--   Run `npm install alpine-prefetch --save`.
+-   Run `npm install alpinejs-prefetch --save`.
 
 ## Usage
 
@@ -30,7 +30,7 @@ Import the plugin, you can name it anything (for example Prefect) and then set i
 ```js
 // Import
 import Alpine from "alpinejs";
-import Prefetch from "alpine-prefetch";
+import Prefetch from "alpinejs-prefetch";
 
 // Set as alpine.js plugin
 Alpine.plugin(Prefetch);
