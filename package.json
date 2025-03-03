@@ -12,5 +12,12 @@
     ],
     "author": "Derrick Grigg <derrick@dgrigg.com> (https://dgrigg.com)",
     "license": "MIT",
-    "homepage": "https://github.com/dgrigg/alpinejs-prefetch#readme"
+    "homepage": "https://github.com/dgrigg/alpinejs-prefetch#readme",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/dgrigg/alpinejs-prefetch.git"
+    },
+    "bugs": {
+        "url": "https://github.com/dgrigg/alpinejs-prefetch/issues"
+    }
 }
