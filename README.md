@@ -1,6 +1,6 @@
-# alpine-prefetch
+# alpinejs-prefetch
 
-An AlpineJs directive to prefetch on page links on hover and viewport intersection. Add the `x-prefetch` directive to any `<a href="...">` tag to have it automatically preteched using the `<link>` element.
+An AlpineJs directive to prefetch links on hover and/or viewport intersection. Add the `x-prefetch` directive to any `<a href="...">` tag to have it automatically preteched using the `<link>` element.
 
 By default the prefetch will occur when the user mouses over a link with the `x-prefetch` directive. For mobile devices, since they don't support mouse events, the link will prefetch when the link is scrolled into the viewport the first time.
 
@@ -25,7 +25,7 @@ By default the prefetch will occur when the user mouses over a link with the `x-
 
 ## Usage
 
-Import the plugin, you can name it anything (for example Prefect) and then set it as an Alpine plugin.
+Import the plugin, you can name it anything (for example Prefetch) and then set it as an Alpine plugin.
 
 ```js
 // Import
