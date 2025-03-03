@@ -1,0 +1,16 @@
+{
+    "name": "alpinejs-prefetch",
+    "version": "1.0.0",
+    "description": "An Alpine.js plugin to prefetch links on your page",
+    "main": "src/index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "alpinejs",
+        "prefetch"
+    ],
+    "author": "Derrick Grigg",
+    "license": "MIT",
+    "homepage": "https://github.com/dgrigg/alpinejs-prefetch#readme"
+}
