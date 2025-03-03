@@ -10,7 +10,7 @@
         "alpinejs",
         "prefetch"
     ],
-    "author": "Derrick Grigg",
+    "author": "Derrick Grigg <derrick@dgrigg.com> (https://dgrigg.com)",
     "license": "MIT",
     "homepage": "https://github.com/dgrigg/alpinejs-prefetch#readme"
 }
